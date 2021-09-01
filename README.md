@@ -16,13 +16,14 @@ To start the web app on MacOS/Linux system:<br>
 
 # Exercise Goal
 
-Deploy a web app with visualizations on [Heroku](https://www.heroku.com) as back-end service. Use the web framework [Flask](https://flask.palletsprojects.com/en/2.0.x/) which takes care of all the routing needed to organize the web page.
+Deploy a **web app with visualizations** on [Heroku](https://www.heroku.com) as back-end service. Use the web framework [Flask](https://flask.palletsprojects.com/en/2.0.x/) which takes care of all the routing needed to organize the web page.
 
 Most of the work involves:
 
 1. Wrangling the chosen dataset extracted from [World Bank API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation) to get the data in the desired format.
 2. Writing Python code to read in the data set and set up plots using [Plotly](https://plotly.com/python/).
 3. Modify HTML using the [Bootstrap library](https://getbootstrap.com) to get the desired website design and information.
+
 
 # File Description
 
@@ -32,6 +33,13 @@ Most of the work involves:
 # Outcome
 
 Link to the web app https://economic-indicators-webapp.herokuapp.com
+
+The web app offers a **World Bank Data Dashboard** with the following **economic indicators**: <br>
+- Population Growth Rate
+- Unemployment Rate
+- Rate of Female to Male Labor Force Participation Rate
+- CO2 Emissions
+- GDP Growth Rate
 
 # Licensing, Authors, Acknowledgments
 
