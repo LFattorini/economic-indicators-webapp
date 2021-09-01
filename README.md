@@ -1,5 +1,6 @@
 # Exercise—Deploy a Data Dashboard
 # World Bank API Data Dashboard
+![Image](web_app_preview.png)
 
 # Installation
 
