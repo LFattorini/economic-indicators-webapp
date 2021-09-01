@@ -37,7 +37,7 @@ Most of the work involves:
 
 Link to the web app https://economic-indicators-webapp.herokuapp.com
 
-The web app offers a **World Bank Data Dashboard** with the following **economic indicators**: <br>
+The web app offers a **World Bank Data Dashboard** with the following **socio-economic indicators**: <br>
 - Population Growth Rate
 - Unemployment Rate
 - Rate of Female to Male Labor Force Participation Rate
