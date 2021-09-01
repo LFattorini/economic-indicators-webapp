@@ -17,7 +17,7 @@ To start the web app on MacOS/Linux system:<br>
 
 # Exercise Goal
 
-The project was completed in a series of exercises to enhance *web development skills as part of the Data Science Nanodegree on [Udacity](https://www.udacity.com).
+The project was completed in a series of exercises to enhance web development skills as part of the Data Science Nanodegree on [Udacity](https://www.udacity.com).
 
 Deploy a **web app with visualizations** on [Heroku](https://www.heroku.com) as back-end service. Use the web framework [Flask](https://flask.palletsprojects.com/en/2.0.x/) which takes care of all the routing needed to organize the web page.
 
