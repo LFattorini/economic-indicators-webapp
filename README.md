@@ -9,7 +9,7 @@
 Install packages:
 `pip install -r requirements.txt`
 
-To install the app on MacOS/Linux system:<br>
+To start the web app on MacOS/Linux system:<br>
 * Open terminal
 * Go into the directory of the web app files
 * Run `python worldbank.py`
@@ -26,4 +26,8 @@ Most of the work involves:
 
 # File Description
 
+- index.html stored inside the worldbankapp folder contains the HTML font-end code
+- wrangle_data.py contains python code to create plotly visualizations using the World Bank API
+
 # Licensing, Authors, Acknowledgments
+
