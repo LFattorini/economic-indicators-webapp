@@ -29,5 +29,11 @@ Most of the work involves:
 - index.html stored inside the worldbankapp folder contains the HTML font-end code
 - wrangle_data.py contains python code to create plotly visualizations using the World Bank API
 
+# Outcome
+
+Link to the web app https://economic-indicators-webapp.herokuapp.com
+
 # Licensing, Authors, Acknowledgments
+
+Open-source data from https://data.worldbank.org.
 
